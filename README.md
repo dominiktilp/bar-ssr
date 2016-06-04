@@ -1,1 +1,1 @@
-currys-web-app
+Barcamp React+Redux SSR
